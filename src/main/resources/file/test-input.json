@@ -1,0 +1,6 @@
+{
+  "stringInput": "TestString",
+  "numberInput": 42,
+  "arrayInput": [1, 2, 3],
+  "booleanInput": true
+}
